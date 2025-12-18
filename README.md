@@ -3,26 +3,74 @@
 
 Recommended platforms for screen-based interactive graphics that can communicate with physical computing systems such as sensors, microcontrollers and cameras.
 
-All the following are Open-Source and Free-to-Use.
-
-
-p5.js: Creative coding for interactive art, rapid prototyping, data visualisation.
-
-Processing: Prototyping, expressive generative visuals.
+All platforms listed are either **open source** or offer **free versions suitable for learning and prototyping**.
 
 ----
+## p5.js:
 
-**Three.js:** 
+p5.js is best used for 2D (and simple 3D) interactive graphics **in the browser**. 
 
-Web-based 3D graphics, interactive product visuals, online exhibitions, and browser-delivered installations. 
+Supports interaction through the mouse, keyboard, webcam and audio, as well as microcontrollers and Raspberry Pi. 
+
+It is a good choice when a project needs to run online and respond to user input or live data.
+
+Open-Source and Free.
+
+Read more at [https://p5js.org/](https://p5js.org/)
+
+
+----
+## Processing:
+
+Processing is best used for screen-based interactive graphics in a **desktop environment**. 
+
+Supports interaction through the mouse, keyboard, webcam and audio, as well as microcontrollers and Raspberry Pi. 
+
+Open-Source and Free.
+
+Read more at [https://processing.org/](https://processing.org/)
+
+----
+## Three.js:
+
+Three.js is best used for browser-based 3D graphics and interactive projects that require spatial or three-dimensional interaction online.
 
 Ideal when your project is online and requires 3D interactivity.
 
+Suitable for more complex 3D interaction than p5.js
+
+Can connect to physical computing systems via WebSockets, APIs or server bridges
+
+Open-Source and Free.
+
+Read more at [https://threejs.org/](https://threejs.org/)
+
+----
+## Touch Designer:
+
+TouchDesigner is best used for real-time interactive installations, motion graphics and sensor-driven artworks. It is particularly effective for projects that rely on continuous real-time input from cameras, sensors or audio systems.
+
+Excellent for working with cameras, sensors, audio, MIDI, OSC and DMX
+
+Free to use with limitations.
+
+Read more at [https://derivative.ca/UserGuide/TouchDesigner](https://derivative.ca/UserGuide/TouchDesigner)
+
 ----
 
-Touch Designer: Physically interactive installations, motion graphics, real-time data art and sensor-integrated artwork. *Free version available with limitations. 
+## Unity / Unreal
 
-Unity / Unreal: Full interactive environments, immersive experiences, XR, large installations that need high performance.
+Unity and Unreal are widely used in games and immersive experiences (VR/AR). 
+
+Can integrate with sensors, cameras and microcontrollers via plugins or custom bridges
+
+Unity: free personal licence (with limitations)
+
+Unreal Engine: free to use; royalties apply for commercial products
+
+More guidance, book a consultation with a KSA Immersive Lab techician
+
+
 
 
 ---- 
