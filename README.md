@@ -8,11 +8,13 @@ All platforms listed are either **open source** or offer **free versions suitabl
 ----
 ## p5.js:
 
-p5.js is best used for 2D (and simple 3D) interactive graphics **in the browser**. 
+Best used for **2D (and simple 3D) interactive graphics in the browser**. 
 
-Supports interaction through the mouse, keyboard, webcam and audio, as well as microcontrollers and Raspberry Pi. 
+Simple interaction through the mouse, keyboard, webcam and audio.
 
-It is a good choice when a project needs to run online and respond to user input or live data.
+Interaction with sensor via microcontrollers and Raspberry Pi requires WebSockets, APIs or server bridges.
+
+Good choice when a project needs to run online and respond to user input or live data, without complex 3D requirements.
 
 Open-Source and Free.
 
@@ -22,9 +24,11 @@ Read more at [https://p5js.org/](https://p5js.org/)
 ----
 ## Processing:
 
-Processing is best used for screen-based interactive graphics in a **desktop environment**. 
+Best used for screen-based **interactive graphics in a desktop environment**
 
-Supports interaction through the mouse, keyboard, webcam and audio, as well as microcontrollers and Raspberry Pi. 
+Supports interaction through the mouse, keyboard, webcam and audio.
+
+Simple interaction with sensor via microcontrollers or Raspberry Pi. 
 
 Open-Source and Free.
 
@@ -33,13 +37,13 @@ Read more at [https://processing.org/](https://processing.org/)
 ----
 ## Three.js:
 
-Three.js is best used for browser-based 3D graphics and interactive projects that require spatial or three-dimensional interaction online.
+Best used for **browser-based 3D graphics and interactive projects** that require spatial or three-dimensional interaction online. Suitable for more complex 3D interaction than p5.js
 
 Ideal when your project is online and requires 3D interactivity.
 
-Suitable for more complex 3D interaction than p5.js
+Supports interaction through the mouse, keyboard, webcam and audio.
 
-Can connect to physical computing systems via WebSockets, APIs or server bridges
+Interaction with microcontrollers and Raspberry Pi requires WebSockets, APIs or server bridges.
 
 Open-Source and Free.
 
@@ -48,9 +52,11 @@ Read more at [https://threejs.org/](https://threejs.org/)
 ----
 ## Touch Designer:
 
-TouchDesigner is best used for real-time interactive installations, motion graphics and sensor-driven artworks. It is particularly effective for projects that rely on continuous real-time input from cameras, sensors or audio systems.
+Best used for **real-time interactive installations, motion graphics and sensor-driven artworks**. 
 
-Excellent for working with cameras, sensors, audio, MIDI, OSC and DMX
+Supports interaction through the mouse, keyboard, webcam and audio.
+
+Simple interaction with microcontrollers and Raspberry Pi via Serial, OSC, or MIDI. 
 
 Free to use with limitations.
 
@@ -60,17 +66,15 @@ Read more at [https://derivative.ca/UserGuide/TouchDesigner](https://derivative.
 
 ## Unity / Unreal
 
-Unity and Unreal are widely used in games and immersive experiences (VR/AR). 
+Unity and Unreal are widely used in **games and immersive experiences (VR/AR)**. 
 
 Can integrate with sensors, cameras and microcontrollers via plugins or custom bridges
 
-Unity: free personal licence (with limitations)
+Both powerful but have a steeper learning curve and are best suited to larger or more technically complex projects.
 
-Unreal Engine: free to use; royalties apply for commercial products
+Free to use with limitations.
 
-More guidance, book a consultation with a KSA Immersive Lab techician
-
-
+More guidance, book a consultation with a **KSA Immersive Lab** techician
 
 
 ---- 
