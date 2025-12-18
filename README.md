@@ -1,7 +1,7 @@
-# Interactive_Graphics
+# Interactive Graphics
 
 
-The following is a list of recommended platforms for **screen-based interactive graphics that can communicate with physical computing systems** such as sensors, microcontrollers and cameras.
+The following list presents platforms for **screen-based interactive graphics that can communicate with physical computing systems** such as sensors, microcontrollers and cameras.
 
 All platforms listed are either **open source or free** (some with limitations).
 
@@ -28,9 +28,9 @@ Best used for screen-based **interactive graphics in a desktop environment** (no
 
 Suitable for simple interactions through the mouse, keyboard, webcam and audio.
 
-Simple interaction with sensors (via microcontrollers or Raspberry Pi) via Serial or OSC communication. 
+Simple interaction with sensors (via microcontrollers or Raspberry Pi) using Serial or OSC communication. 
 
-Requires local software installation. Available for Windows, MacOS, and Linux.
+Requires local software installation; available for Windows, MacOS, and Linux.
 
 Open-Source and Free.
 
@@ -58,9 +58,9 @@ Best used for **real-time interactive installations, motion graphics and sensor-
 
 Supports interaction through the mouse, keyboard, webcam and audio.
 
-Simple interaction with sensors (via microcontrollers or Raspberry Pi) via Serial or OSC communication. 
+Simple interaction with sensors (via microcontrollers or Raspberry Pi) using Serial or OSC communication. 
 
-Requires local software installation. Available for Windows and MacOS.
+Requires local software installation; available for Windows and MacOS.
 
 Free to use with limitations.
 
@@ -72,25 +72,25 @@ Read more at [https://derivative.ca/UserGuide/TouchDesigner](https://derivative.
 
 Unity and Unreal are widely used in **games and immersive experiences (VR/AR)**. 
 
-Can integrate with sensors, cameras and microcontrollers via plugins or custom bridges
+Can integrate with sensors, cameras and microcontrollers via plugins or custom bridges.
 
 Both powerful but have a steeper learning curve and are best suited to larger or more technically complex projects.
 
-Requires software local intallation. Available for Windows and MacOS.
+Requires software local intallation; available for Windows and MacOS.
 
 Free to use with limitations.
 
-More guidance, book a consultation with a **KSA Immersive Lab** techician
+For further guidance, please book a consultation with a **KSA Immersive Lab** techician
 
 
 ---- 
 Industry relevance: 
 ----
 
-**p5.js** and **Processing** remain very strong for teaching, prototyping and creative experimentation. They’re widely used in education, interactive art projects, generative visuals, and early prototyping of ideas. Not usually used for high-end commercial experiences or large scale installations on its own, but excellent for prototyping the concept before moving to more advanced tools.
+**p5.js** and **Processing** are widely used in education, interactive art projects, generative visuals, and early prototyping of ideas. Not usually used for high-end commercial experiences or large scale installations on its own, but excellent for prototyping the concept before moving to more advanced tools.
 
 **Three.js** Highly relevant for web-delivered 3D graphics. Big companies, galleries and creative studios use it for interactive web visuals, online exhibitions and browser experiences.
 
 **TouchDesigner** Very strong in live visuals, installations, interactive performances, projection mapping and responsive environments.
 
-**Unity / Unreal**Extremely strong — these are major realtime graphics engines used in games, XR (AR/VR), interactive installations and experiential applications.
+**Unity / Unreal** Extremely strong — these are major realtime graphics engines used in games, XR (AR/VR), interactive installations and experiential applications.
