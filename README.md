@@ -1,7 +1,7 @@
 # Interactive_Graphics
 
 
-Recommended platforms for screen-based interactive graphics that can communicate with physical computing systems such as sensors, microcontrollers and cameras.
+See below a list of recommended platforms for screen-based interactive graphics that can communicate with physical computing systems such as sensors, microcontrollers and cameras.
 
 All platforms listed are either **open source** or offer **free versions suitable for learning and prototyping**.
 
