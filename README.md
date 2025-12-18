@@ -1,18 +1,18 @@
 # Interactive_Graphics
 
 
-See below a list of recommended platforms for screen-based interactive graphics that can communicate with physical computing systems such as sensors, microcontrollers and cameras.
+The following is a list of recommended platforms for **screen-based interactive graphics that can communicate with physical computing systems** such as sensors, microcontrollers and cameras.
 
-All platforms listed are either **open source** or offer **free versions suitable for learning and prototyping**.
+All platforms listed are either **open source or free** (some with limitations).
 
 ----
 ## p5.js:
 
 Best used for **2D (and simple 3D) interactive graphics in the browser**. 
 
-Simple interaction through the mouse, keyboard, webcam and audio.
+Suitable for simple interactions through the mouse, keyboard, webcam and audio.
 
-Interaction with sensor via microcontrollers and Raspberry Pi requires WebSockets, APIs or server bridges.
+Further interactions with sensors (via microcontrollers or Raspberry Pi) requires WebSockets, APIs or server bridges.
 
 Good choice when a project needs to run online and respond to user input or live data, without complex 3D requirements.
 
@@ -24,11 +24,13 @@ Read more at [https://p5js.org/](https://p5js.org/)
 ----
 ## Processing:
 
-Best used for screen-based **interactive graphics in a desktop environment**
+Best used for screen-based **interactive graphics in a desktop environment** (not in the browser). 
 
-Supports interaction through the mouse, keyboard, webcam and audio.
+Suitable for simple interactions through the mouse, keyboard, webcam and audio.
 
-Simple interaction with sensor via microcontrollers or Raspberry Pi. 
+Simple interaction with sensors (via microcontrollers or Raspberry Pi) via Serial or OSC communication. 
+
+Requires local software installation. Available for Windows, MacOS, and Linux.
 
 Open-Source and Free.
 
@@ -43,7 +45,7 @@ Ideal when your project is online and requires 3D interactivity.
 
 Supports interaction through the mouse, keyboard, webcam and audio.
 
-Interaction with microcontrollers and Raspberry Pi requires WebSockets, APIs or server bridges.
+Further interactions with sensors (via microcontrollers or Raspberry Pi) requires WebSockets, APIs or server bridges.
 
 Open-Source and Free.
 
@@ -56,7 +58,9 @@ Best used for **real-time interactive installations, motion graphics and sensor-
 
 Supports interaction through the mouse, keyboard, webcam and audio.
 
-Simple interaction with microcontrollers and Raspberry Pi via Serial, OSC, or MIDI. 
+Simple interaction with sensors (via microcontrollers or Raspberry Pi) via Serial or OSC communication. 
+
+Requires local software installation. Available for Windows and MacOS.
 
 Free to use with limitations.
 
@@ -71,6 +75,8 @@ Unity and Unreal are widely used in **games and immersive experiences (VR/AR)**.
 Can integrate with sensors, cameras and microcontrollers via plugins or custom bridges
 
 Both powerful but have a steeper learning curve and are best suited to larger or more technically complex projects.
+
+Requires software local intallation. Available for Windows and MacOS.
 
 Free to use with limitations.
 
