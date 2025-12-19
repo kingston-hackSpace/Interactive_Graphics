@@ -38,7 +38,9 @@ Requires local software installation; available for Windows, MacOS, and Linux.
 
 Open-Source and Free.
 
-Read more at [https://processing.org/](https://processing.org/)
+**Read more at** [https://processing.org/](https://processing.org/)
+
+**Learn Processing**: [TheCodingTrain/Processing](https://thecodingtrain.com/tracks/learning-processing)
 
 ----
 # Three.js:
