@@ -6,7 +6,7 @@ The following list presents platforms for **screen-based interactive graphics th
 All platforms listed are either **open source or free** (some with limitations).
 
 ----
-## p5.js:
+# p5.js:
 
 Best used for **2D (and simple 3D) interactive graphics in the browser**. 
 
@@ -18,11 +18,15 @@ Good choice when a project needs to run online and respond to user input or live
 
 Open-Source and Free.
 
-Read more at [https://p5js.org/](https://p5js.org/)
+**Read more at**: [https://p5js.org/](https://p5js.org/)
+
+**Learn p5.js**: [The Coding Train](https://thecodingtrain.com/)
+
+**Get inspired (and access to the source codes)**: [https://openprocessing.org/](https://openprocessing.org/)
 
 
 ----
-## Processing:
+# Processing:
 
 Best used for screen-based **interactive graphics in a desktop environment** (not in the browser). 
 
@@ -37,7 +41,7 @@ Open-Source and Free.
 Read more at [https://processing.org/](https://processing.org/)
 
 ----
-## Three.js:
+# Three.js:
 
 Best used for **browser-based 3D graphics and interactive projects** that require spatial or three-dimensional interaction online. Suitable for more complex 3D interaction than p5.js
 
@@ -52,7 +56,7 @@ Open-Source and Free.
 Read more at [https://threejs.org/](https://threejs.org/)
 
 ----
-## Touch Designer:
+# Touch Designer:
 
 Best used for **real-time interactive installations, motion graphics and sensor-driven artworks**. 
 
@@ -68,7 +72,7 @@ Read more at [https://derivative.ca/UserGuide/TouchDesigner](https://derivative.
 
 ----
 
-## Unity / Unreal
+# Unity / Unreal
 
 Unity and Unreal are widely used in **games and immersive experiences (VR/AR)**. 
 
