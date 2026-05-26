@@ -72,6 +72,8 @@ Free to use with limitations.
 
 Read more at [https://derivative.ca/UserGuide/TouchDesigner](https://derivative.ca/UserGuide/TouchDesigner)
 
+[Touch Designer - 101 free course](https://learn.derivative.ca/courses/100-fundamentals/lessons/101-navigating-the-environment/)
+
 ----
 
 # Unity / Unreal
